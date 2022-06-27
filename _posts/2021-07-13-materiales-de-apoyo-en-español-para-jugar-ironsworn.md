@@ -8,6 +8,9 @@ tags:
   - Rol en solitario
   - Traducciones
 ---
+
+![Imagen promocional de Ironsworn](/assets/img/ironsworn.png)
+
 **Ironsworn** es uno de mis juegos de rol favoritos para jugar en solitario. En estos momentos en los que soy papá primerizo de un niño de menos de un año me ha ayudado mucho a mantenerme en el pasatiempo pese a la falta de tiempo y la pandemia. Ya le he dado varias partidas y cada una de ellas me sigue maravillando y atrapando.
 
 En mi primer [blog de La esquina del rol](https://laesquinadelrol.blogspot.com/) (en blogger) compartí los inicios de una de mis partidas que no terminé de publicar, pero con mi anterior blog en Wordpress y el lanzamiento de Ironsworn Starfoged, pues, lo dejé un poco de lado y comencé a jugar esta nueva entrega de Shawn Tomkin. Publicaré pronto algo nuevo al respecto.
