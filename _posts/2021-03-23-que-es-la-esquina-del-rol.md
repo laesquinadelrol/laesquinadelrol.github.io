@@ -46,3 +46,5 @@ En primer lugar, estoy por iniciar la maquetación del Libro de Hanz en su versi
 En segundo lugar, y creo que con esto cierro y no diré más, se vienen las traducciones de Fate Codex. Esa increíble revista de Fate que hasta la fecha no ha sido traducida al español y está con licencia disponible para poder hacerlo sin costo alguno. Esto es algo que me emociona un montón y, también, espero que a quién lea esto en el futuro.
 
 Finalmente, pienso compartir mis experiencias jugando rol en solitario y algunos otros recursos que vaya creando y quiera que queden disponibles para el que quiera ocuparlos. En esencia, querido lector o lectora, eso es lo que puedes esperar de este blog.
+
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Invítame un café', '#29abe0', 'X8X035NUM');kofiwidget2.draw();</script>

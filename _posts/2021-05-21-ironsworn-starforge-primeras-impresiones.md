@@ -47,3 +47,5 @@ Si quieres saber más acerca de **Starforged** puedes consultar la [página ofic
 [tw3]: https://twitter.com/FMantenimiento
 [web1]: https://www.ironswornrpg.com/product-ironsworn-starforged
 [web2]: https://www.kickstarter.com/projects/shawntomkin/ironsworn-starforged
+
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Invítame un café', '#29abe0', 'X8X035NUM');kofiwidget2.draw();</script>
