@@ -7,6 +7,7 @@ tags:
   - Opinión
   - Rol en solitario
 ---
+
 ![Imagen promocional de Ironsworn Starforged](https://laesquinadelrol.files.wordpress.com/2021/05/1500x500.jpg)
 
 Hace una semana terminé de leer la versión previa de **Ironsworn Starforged** (**Starforged** en adelante) y decidí hasta ahora compartir contigo en el blog una serie de primeras impresiones que se me quedaron como huellas en el pensamiento al concluir su lectura.
