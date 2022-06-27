@@ -1,6 +1,6 @@
 ---
 title: Guía de movimientos extendida de Ironsworn
-last_modified_at: 2021-05-21T15:34:30-04:00
+last_modified_at: 2021-08-18T15:34:30-04:00
 categories:
   - Rol en solitario
 tags:
@@ -8,6 +8,8 @@ tags:
   - Rol en solitario
   - Traducciones
 ---
+
+![Imagen promocional de Ironsworn](/assets/images/ironsworn.jpg)
 
 Para rescatar un poco lo que había estado trabajando para mi grupo de juego hace unos meses. Les comparto la guía de movimientos extendida de Ironsworn extraída del propio juego. Esta guía, aunque no es breve, si ayuda y aclara muchas dudas al momento de usar cada movimiento. Este documento se suma a la otra entrada [Materiales de apoyo en español para jugar Ironsworn](https://laesquinadelrol.com/rol%20en%20solitario/materiales-de-apoyo-en-espa%C3%B1ol-para-jugar-ironsworn/).
 
