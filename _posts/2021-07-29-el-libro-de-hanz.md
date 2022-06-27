@@ -1,6 +1,6 @@
 ---
 title: ¡El libro de Hanz en EPUB y PDF!
-last_modified_at: 2021-05-21T15:34:30-04:00
+last_modified_at: 2021-07-29T15:34:30-04:00
 categories:
   - Publicaciones
 tags:
@@ -15,7 +15,7 @@ No hay plazo que no se cumpla. Finalmente, llego el momento de compartir con la 
 
 También, antes que pregunten: ¡La versión para impresión en lulú saldrá! No tan pronto como quisiera, pero saldrá. Solo es cuestión de guardar calma y juntar unos cuantos dólares  o euros para poder imprimirlo al costo de impresión. Me hace mucha ilusión esto, sobre todo porque quisiera tenerlo en mi estante junto a los otros libros de Fate en español que tengo.
 
-Aprovecho para agradecer a Randy Oest por la edición en inglés de esta obra y a Pepe de @1d12monos por los tips y la orientación recibida.
+Aprovecho para agradecer a [Randy Oest](https://twitter.com/amazingrando) por la edición en inglés de esta obra y a Pepe de [@1d12monos](https://twitter.com/1d12monos) por los tips y la orientación recibida.
 
 Recuerda que este ePUB y PDF tiene una Licencia Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional. Así que puedes compartirlo libremente con quien quieras y cuando quieras. ¡Te animo hacerlo! ¡Hagamos que llegue a todas las personas que juegan Fate en español!
 
