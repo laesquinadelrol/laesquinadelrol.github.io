@@ -7,6 +7,7 @@ tags:
   - Recursos
   - Rol en solitario
   - Traducciones
+  - Ironsworn
 ---
 
 ![Imagen promocional de Ironsworn](/assets/images/ironsworn.jpg)
@@ -25,7 +26,7 @@ Lo publicado hasta el momento:
 
 - [La hoja de personajes.](https://laesquinadelrol.files.wordpress.com/2021/07/ironsworn-hoja_de_personaje-es.pdf)
 - [Tu mundo: el cuaderno de verdades.](https://laesquinadelrol.files.wordpress.com/2021/07/ironsworn-es-cuadernodeverdades.pdf)
-- [Guía de movimientos extendida.](https://laesquinadelrol.com/2021/08/18/ironsworn-guia-de-movimientos-extendida/)
+- [Guía de movimientos extendida.](https://laesquinadelrol.com/rol%20en%20solitario/Ironsworn-gu%C3%ADa-de-movimientos-extendida/)
 - [Ironsworn SRD en español.]()
 
 Espero sea de utilidad para usted.

@@ -7,6 +7,7 @@ tags:
   - Recursos
   - Rol en solitario
   - Traducciones
+  - Ironsworn
 ---
 
 ![Imagen promocional de Ironsworn](/assets/images/ironsworn.jpg)
