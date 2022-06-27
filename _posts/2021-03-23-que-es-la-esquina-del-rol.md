@@ -1,5 +1,5 @@
 ---
-title: "Esto es La esquina del rol"
+title: Esto es La esquina del rol
 date: 2021-03-23T15:34:30-04:00
 categories:
   - blog
