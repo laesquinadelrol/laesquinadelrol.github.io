@@ -60,6 +60,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "{Él/he/him} Gané el aspecto «Papá primerizo» #TTRPGtranslator  #RPGLatam #SoloRPG"
   links:
+    - label: "Invítame un café"
+      icon: "fas fa-fw fa-link"
+      url: "https://ko-fi.com/laesquinadelrol"
     - label: "Linktr.ee"
       icon: "fas fa-fw fa-link"
       url: "https://linktr.ee/laesquinadelrol"
@@ -69,8 +72,6 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/laesquinadelrol"
-      
-      <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Invítame un café', '#29abe0', 'X8X035NUM');kofiwidget2.draw();</script>
 
 footer:
   links:
