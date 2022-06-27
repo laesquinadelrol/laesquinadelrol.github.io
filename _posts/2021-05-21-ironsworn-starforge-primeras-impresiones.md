@@ -1,6 +1,6 @@
 ---
 title: Ironsworn Starforged primeras impresiones
-last_modified_at: 2021-05-10T15:34:30-04:00
+last_modified_at: 2021-05-21T15:34:30-04:00
 categories:
   - blog
 tags:
