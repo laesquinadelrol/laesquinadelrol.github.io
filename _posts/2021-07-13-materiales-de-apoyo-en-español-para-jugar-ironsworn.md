@@ -27,7 +27,7 @@ Lo publicado hasta el momento:
 - [La hoja de personajes.](https://laesquinadelrol.files.wordpress.com/2021/07/ironsworn-hoja_de_personaje-es.pdf)
 - [Tu mundo: el cuaderno de verdades.](https://laesquinadelrol.files.wordpress.com/2021/07/ironsworn-es-cuadernodeverdades.pdf)
 - [Guía de movimientos extendida.](https://laesquinadelrol.com/rol%20en%20solitario/Ironsworn-gu%C3%ADa-de-movimientos-extendida/)
-- [Ironsworn SRD en español.]()
+- [Ironsworn SRD en español.](https://laesquinadelrol.com/rol%20en%20solitario/ironsworn-srd/)
 
 Espero sea de utilidad para usted.
 
