@@ -9,7 +9,7 @@ tags:
   - Traducciones
 ---
 
-![Imagen promocional de Ironsworn](https://laesquinadelrol.files.wordpress.com/2021/07/wp-1626192794272.png)
+![Imagen promocional de Ironsworn](/assets/images/ironsworn.jpg)
 
 **Ironsworn** es uno de mis juegos de rol favoritos para jugar en solitario. En estos momentos en los que soy papá primerizo de un niño de menos de un año me ha ayudado mucho a mantenerme en el pasatiempo pese a la falta de tiempo y la pandemia. Ya le he dado varias partidas y cada una de ellas me sigue maravillando y atrapando.
 
