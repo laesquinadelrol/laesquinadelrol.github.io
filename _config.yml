@@ -60,6 +60,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "{Él/he/him} Gané el aspecto «Papá primerizo» #TTRPGtranslator  #RPGLatam #SoloRPG"
   links:
+    - label: "Linktr.ee"
+      icon: "fas fa-fw fa-link"
+      url: "https://linktr.ee/laesquinadelrol"
     - label: "Itch.io"
       icon: "fas fa-fw fa-link"
       url: "https://laesquinadelrol.itch.io/"
