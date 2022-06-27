@@ -7,6 +7,8 @@ tags:
   - Opinión
   - Rol en solitario
 ---
+![Imagen promocional de Ironsworn Starforged](https://laesquinadelrol.files.wordpress.com/2021/05/1500x500.jpg)
+
 Hace una semana terminé de leer la versión previa de **Ironsworn Starforged** (**Starforged** en adelante) y decidí hasta ahora compartir contigo en el blog una serie de primeras impresiones que se me quedaron como huellas en el pensamiento al concluir su lectura.
 
 Que quede claro que esto no pretende ser una reseña del juego, ya que no me considero bueno haciendo reseñas y la verdad hay mejores páginas de reseñas que ésta. Así que si eres nuevo en los juegos de [Shawn Tomkin][tw1] quizás no te sea tan útil esta entrada. Te recomiendo buscar en YouTube (en particular te recomiendo el [análisis de la versión previa](https://www.youtube.com/watch?v=PKHaC4zr1xM) realizada por [@ElAutoma](https://twitter.com/ElAutoma)) o en algún blog algo que sea más introductorio para jugar y conocer acerca del juego.
