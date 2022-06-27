@@ -6,6 +6,7 @@ categories:
 tags:
   - Opinión
   - Rol en solitario
+  - Ironsworn
 ---
 
 ![Imagen promocional de Ironsworn Starforged](https://laesquinadelrol.files.wordpress.com/2021/05/1500x500.jpg)
