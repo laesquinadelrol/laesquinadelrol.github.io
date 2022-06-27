@@ -9,7 +9,7 @@ tags:
   - Traducciones
   - Fate
 ---
-1[Portada del libro de Hanz en español](https://laesquinadelrol.files.wordpress.com/2021/07/black-and-white-flat-minimalist-bag-business-animated-social-media-graphic.png)
+![Portada del libro de Hanz en español](https://laesquinadelrol.files.wordpress.com/2021/07/black-and-white-flat-minimalist-bag-business-animated-social-media-graphic.png)
 
 No hay plazo que no se cumpla. Finalmente, llego el momento de compartir con la comunidad de Fate en español el Libro de Hanz en ePUB y PDF.
 
