@@ -4,7 +4,6 @@ last_modified_at: 2021-03-23T15:34:30-04:00
 categories:
   - blog
 tags:
-  - La esquina del rol
   - Noticias
 ---
 
