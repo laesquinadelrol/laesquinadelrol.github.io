@@ -6,6 +6,6 @@ main:
   - title: "Etiquetas"
     url: /tags/
   - title: "SRDs"
-    url: /srd-en-la-esquina-del-rol/
+    url: https://srd.laesquinadelrol.com/
   - title: "Sobre mí"
     url: /about/
