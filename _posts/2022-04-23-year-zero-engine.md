@@ -1,5 +1,5 @@
 ---
-title: Year Zero Engine en español
+title: Year Zero
 excerpt: En esta entrada comparto mi traducción del Year Zero Engine, el cual se utiliza en juegos como:  Mutant: Year Zero, Coriolis - The Third Horizon, Tales from the Loop, y Forbidden Lands
 last_modified_at: 2022-14-23T15:34:30-04:00
 categories:
