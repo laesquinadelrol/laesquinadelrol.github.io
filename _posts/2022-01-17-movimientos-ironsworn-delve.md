@@ -3,7 +3,7 @@ title: Movimientos Ironsworn Delve
 excerpt: En esta entrada comparto dos documentos traducidos de Ironsworn Delve, el primero de ellos son los movimientos explicados y la hoja de sitio.
 last_modified_at: 2021-10-22T15:34:30-04:00
 categories:
-  - Sistemas de juego
+  - Sistemas
 tags:
   - Recursos
   - Rol en solitario

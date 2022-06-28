@@ -3,7 +3,7 @@ title: Guía de movimientos extendida de Ironsworn
 excerpt: En esta entrada comparto la guía de movimientos de Ironsworn. Esta guía explica cómo debe utilizarse cada movimiento.
 last_modified_at: 2021-08-18T15:34:30-04:00
 categories:
-  - Sistemas de juego
+  - Sistemas
 tags:
   - Recursos
   - Rol en solitario

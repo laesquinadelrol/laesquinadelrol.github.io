@@ -4,7 +4,7 @@ title: Hackeando Ironsworn
 excerpt: En esta entrada comparto un apartado del libro de reglas de Ironsworn para hackearlo y poder utilizarlo en tu propio mundo.
 last_modified_at: 2021-10-22T15:34:30-04:00
 categories:
-  - Sistemas de juego
+  - Sistemas
 tags:
   - Recursos
   - Rol en solitario
