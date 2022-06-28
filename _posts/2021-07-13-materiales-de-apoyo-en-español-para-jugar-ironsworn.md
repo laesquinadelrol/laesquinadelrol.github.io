@@ -1,7 +1,14 @@
 ---
 title: Materiales de apoyo en español para jugar Ironsworn
+<<<<<<< HEAD
 excerpt: En esta entrada comparto en PDF la hoja de personaje de Ironsworn y Tu mundo, cuaderno de verdades.
+=======
+
+excerpt: En esta entrada comparto en PDF la hoja de personaje de Ironsworn y el documento para personalizar Ironland llamado: Tu mundo, cuaderno de verdades.
+
+>>>>>>> e65762ad8e86f3cc0ca3542373267ad6b8f6122d
 last_modified_at: 2021-07-13T15:34:30-04:00
+
 categories:
   - Sistemas
 tags:
