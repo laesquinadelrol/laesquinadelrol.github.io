@@ -1,6 +1,7 @@
 ---
 toc: true
 title: Hackeando Ironsworn
+excerpt: Principios para hackear fácilmente Ironsworn
 last_modified_at: 2021-10-22T15:34:30-04:00
 categories:
   - Rol en solitario

@@ -1,5 +1,6 @@
 ---
 title: ¡Esto es La esquina del rol!
+excerpt: Presentación del blog de La esquina del rol
 last_modified_at: 2021-03-23T15:34:30-04:00
 categories:
   - blog

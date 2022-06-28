@@ -1,5 +1,6 @@
 ---
 title: Guía de movimientos extendida de Ironsworn
+excerpt: Material descargable y gratuito de los movimientos de Ironsworn
 last_modified_at: 2021-08-18T15:34:30-04:00
 categories:
   - Rol en solitario

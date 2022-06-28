@@ -1,5 +1,6 @@
 ---
-title: Movimientos de Ironsworn Delve
+title: Movimientos Ironsworn Delve
+excerpt: Material descargable y gratuito de los movimientos de Ironsworn Delve.
 last_modified_at: 2021-10-22T15:34:30-04:00
 categories:
   - Rol en solitario

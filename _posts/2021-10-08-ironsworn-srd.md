@@ -1,5 +1,6 @@
 ---
 title: Ironsworn SRD
+excerpt: El Sistema de Referencia del Sistema de Ironsworn, para su descarga y utilización en el desarrollo de juegos.
 last_modified_at: 2021-08-18T15:34:30-04:00
 categories:
   - Rol en solitario

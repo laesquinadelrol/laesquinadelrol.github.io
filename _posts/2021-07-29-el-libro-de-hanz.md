@@ -1,5 +1,6 @@
 ---
 title: ¡El libro de Hanz en EPUB y PDF!
+excerpt: Descarga de material gratuito para aprender a jugar Fate RPG.
 last_modified_at: 2021-07-29T15:34:30-04:00
 categories:
   - Publicaciones

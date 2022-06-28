@@ -1,5 +1,6 @@
 ---
 title: Materiales de apoyo en español para jugar Ironsworn
+excerpt: Material descargable y gratuito en español para jugar Ironsworn.
 last_modified_at: 2021-07-13T15:34:30-04:00
 categories:
   - Rol en solitario
