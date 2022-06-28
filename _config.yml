@@ -65,7 +65,7 @@ plugins:
 author:
   name   : "La esquina del rol"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "{Él/he/him} Gané el aspecto «Papá primerizo».#TTRPGtranslator  #RPGLatam #SoloRPG"
+  bio    : "{Él/he/him} Gané el aspecto «Papá primerizo».#TTRPGtranslator  #RPGLatam #SoloRPG contacto@laesquinadelrol.com"
   links:
     - label: "Invítame un café"
       icon: "fas fa-coffee"
@@ -75,7 +75,7 @@ author:
       url: "https://linktr.ee/laesquinadelrol"
     - label: "Correo electrónico"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:contacto@laesquinadelrol.com"
+      url: "mailto:contacto@laesquinadelrol.com"
     - label: "Telegram"
       icon: "fab fa-telegram"
       url: "https://t.me/laesquinadelrol"
