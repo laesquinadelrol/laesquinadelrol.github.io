@@ -68,7 +68,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://linktr.ee/laesquinadelrol"
     - label: "Itch.io"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-itch-io"
       url: "https://laesquinadelrol.itch.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
