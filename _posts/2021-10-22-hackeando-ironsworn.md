@@ -1,5 +1,5 @@
 ---
-title: Ironsworn SRD
+title: Hackeando Ironsworn
 last_modified_at: 2021-10-22T15:34:30-04:00
 categories:
   - Rol en solitario
