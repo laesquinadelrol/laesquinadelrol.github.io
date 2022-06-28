@@ -64,8 +64,11 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://ko-fi.com/laesquinadelrol"
     - label: "Linktr.ee"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-external-link-alt"
       url: "https://linktr.ee/laesquinadelrol"
+    - label: "Telegram"
+      icon: "fab fa-telegram"
+      url: "https://t.me/laesquinadelrol"
     - label: "Itch.io"
       icon: "fab fa-itch-io"
       url: "https://laesquinadelrol.itch.io/"
@@ -108,3 +111,9 @@ tag_archive:
   path: /tags/
 
   logo: "/assets/images/bio-photo.jpg"
+
+  analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-K95LN7MRTM"
+    anonymize_ip: false # default
