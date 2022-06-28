@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "La esquina del rol"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "{Él/he/him} Gané el aspecto «Papá primerizo». Traductor, maquetador y editor aficionado. En mis tiempos libres desarrollo La esquina del rol.
+  bio    : "{Él/he/him} Gané el aspecto «Papá primerizo».
   links:
     - label: "Invítame un café"
       icon: "fas fa-coffee"
