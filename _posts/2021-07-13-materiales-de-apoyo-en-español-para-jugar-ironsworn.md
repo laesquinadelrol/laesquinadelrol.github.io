@@ -24,17 +24,10 @@ Mi objetivo es traducir todo lo traducible, dejarlo gratuito y libre para quien 
 
 Lo publicado hasta el momento:
 
-<<<<<<< HEAD
-=======
-<a href="#https://laesquinadelrol.files.wordpress.com/2021/07/ironsworn-hoja_de_personaje-es.pdf" class="btn btn--primary">Hoja de personaje</a>
-
->>>>>>> a9d45d6e81ff9dd213c30e08cd9221944d885640
 - [La hoja de personajes.](https://laesquinadelrol.files.wordpress.com/2021/07/ironsworn-hoja_de_personaje-es.pdf)
 - [Tu mundo: el cuaderno de verdades.](https://laesquinadelrol.files.wordpress.com/2021/07/ironsworn-es-cuadernodeverdades.pdf)
 - [Guía de movimientos extendida.](https://laesquinadelrol.com/rol%20en%20solitario/Ironsworn-gu%C3%ADa-de-movimientos-extendida/)
 - [Ironsworn SRD en español.](https://laesquinadelrol.com/rol%20en%20solitario/ironsworn-srd/)
-
-Espero sea de utilidad para usted.
 
 
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Invítame un café', '#29abe0', 'X8X035NUM');kofiwidget2.draw();</script>
