@@ -66,7 +66,7 @@ Si no está usando bazas, pero quiere añadir un poco más de detalles a su pers
 
 Debido a que muchas de las bazas representan los tropos típicos de personajes heroicos, a menudo se pueden reinventar para diferentes escenarios y géneros con cambios mínimos. Utilice las bazas existentes como punto de partida y ajuste los nombres y las habilidades específicas para que encajen mejor con su mundo imaginado. 
 
-1[Ejemplo de baza de arquero](/assets/images/baza.jpg)
+![Ejemplo de baza de arquero](/assets/images/baza.jpg)
 
 - ¿Tu personaje es un pirata del siglo XVII que es muy hábil disparando con su mosquete? Cambia el nombre de Arquero por Tirador y cambia la condición: “Si usas un mosquete…”
 - ¿Estás jugando a un Cyborg en una realidad distópica del futuro? Cambia el nombre de Arquero por Pistolero y cambia la condición: “Si usas un blaster cibernético…” Luego, cambia la última habilidad con algo que encaje mejor con el tema.
