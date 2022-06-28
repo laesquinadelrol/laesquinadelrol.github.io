@@ -27,7 +27,7 @@ search: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-permalink: /:categories/:title/
+permalink: /:year/:month/:day/title
 paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: America/Merida
@@ -116,4 +116,4 @@ tag_archive:
   provider: "google-gtag"
   google:
     tracking_id: "G-K95LN7MRTM"
-    anonymize_ip: false # default
+    anonymize_ip: true # default
