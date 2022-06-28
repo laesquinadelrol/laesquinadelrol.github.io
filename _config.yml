@@ -25,8 +25,8 @@ minimal_mistakes_skin: neon
 search: true
 
 comments:
-  provider    : disqus
-    shortname : laesquinadelrol 
+provider: disqus
+shortname: laesquinadelrol
 
 # Build settings
 markdown: kramdown
