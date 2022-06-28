@@ -24,8 +24,8 @@ github_username: laesquinadelrol
 minimal_mistakes_skin: neon
 search: true
 
-comments: true
-  provider  : disqus
+comments:
+  provider: disqus
   disqus:
     shortname : laesquinadelrol
 
