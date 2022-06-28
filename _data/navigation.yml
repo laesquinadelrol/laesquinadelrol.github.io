@@ -1,7 +1,7 @@
 main:
-  - title: "Entradas"
+  - title: "Posts"
     url: /posts/
-  - title: "Categorias"
+  - title: "Categorías"
     url: /categories/
   - title: "Etiquetas"
     url: /tags/

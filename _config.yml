@@ -13,6 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+locale: "es-MX"
 title: La esquina del rol
 subtitle: Tu esquina de rol en internet
 email: laesquinadelrol@gmail.com
@@ -22,6 +23,10 @@ twitter_username: laesquinadelrol
 github_username: laesquinadelrol
 minimal_mistakes_skin: neon
 search: true
+
+comments:
+  provider    : disgus
+    shortname : laesquinadelrol 
 
 # Build settings
 markdown: kramdown
@@ -66,6 +71,9 @@ author:
     - label: "Linktr.ee"
       icon: "fab fa-pagelines"
       url: "https://linktr.ee/laesquinadelrol"
+    - label: "Correo electrónico"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:contacto@laesquinadelrol.com"
     - label: "Telegram"
       icon: "fab fa-telegram"
       url: "https://t.me/laesquinadelrol"
