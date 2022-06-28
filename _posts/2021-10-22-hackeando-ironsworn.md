@@ -91,6 +91,6 @@ Finalmente, como comentario final: Ironsworn no se preocupa particularmente por 
 
 > Por supuesto, la forma más fácil de jugar Ironsworn en diferentes mundos es dejar que otra persona haga el trabajo. Visita [ironswornrpg.com](ironswornrpg.com) para obtener actualizaciones sobre expansiones oficiales o contenido creado por la comunidad.
 
-- [Desgarga en PDF Hackeando Ironsworn](https://laesquinadelrol.files.wordpress.com/2021/10/hackeandoironsworn.pdf)
+- Desgarga en PDF Hackeando Ironsworn, clic [aquí](https://laesquinadelrol.files.wordpress.com/2021/10/hackeandoironsworn.pdf)
 
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Invítame un café', '#29abe0', 'X8X035NUM');kofiwidget2.draw();</script>

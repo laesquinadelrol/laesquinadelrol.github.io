@@ -1,6 +1,6 @@
 ---
 title: Year zero engine en español
-excerpt: En esta entrada comparto dos documentos traducidos de Ironsworn Delve, el primero de ellos son los movimientos explicados y la hoja de sitio.
+excerpt: En esta entrada comparto mi traducción del Year Zero engine que utilizan varios juegos de Free league.
 last_modified_at: 2022-04-23T15:34:30-04:00
 categories:
   - Sistemas
