@@ -6,16 +6,17 @@ categories:
   - Sistemas
 tags:
   - Recursos
-  - Rol en solitario
+  - Juegos de rol
   - Traducciones
-  - Ironsworn
 ---
 
-![Imagen promocional de Ironsworn Delve](https://laesquinadelrol.files.wordpress.com/2022/01/ironsworn-en-espanol-1.jpg)
+![Imagen promocional de Year zero engine](https://laesquinadelrol.files.wordpress.com/2022/04/year.png)
 
-¡Aquí estoy de regreso desde la esquina del rol que ya conoces! El día de hoy les comparto un primer avance de lo que me traigo en desarrollo para la comunidad del sitio. En esta ocasión les comparto dos documentos:
+Hoy se cumple un año de laesquinadelrol.com. Ha sido un año lleno de traducciones y de muchas personas relacionadas al rol que he conocido. Estoy muy agradecido por todo lo que me ha dado la esquinadelrol.com y espero que se venga un año lleno de más traducciones gratuitas.
 
-- [Descarga La guía extendida de movimientos del suplemento en español de Ironsworn Delve (46 páginas de un tutorial para aprender los movimientos e incorporarlos a tu campaña)](https://laesquinadelrol.files.wordpress.com/2022/01/guia-de-movimientos-ext_delve_es.pdf)
-- [Descarga la hoja del sitio en español.](https://laesquinadelrol.files.wordpress.com/2022/01/ironsworn-delve-hoja-del-sitio.pdf)
+Para festejar este año les comparto el Year Zero Engine OGL en Español para que puedan utilizarlo para desarrollar sus propios juegos.
+
+- Descargar el PDF, clic [aquí.](https://laesquinadelrol.files.wordpress.com/2022/04/year-zero-engine-ogl-esp-1.pdf)
+- Copiar el archivo de google docs, clic [aquí](https://docs.google.com/document/d/1viics7dsoBSba05FZKo1W_YqlpS3RFyO3Hh4HwBIiuM/edit?usp=sharing)
 
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Invítame un café', '#29abe0', 'X8X035NUM');kofiwidget2.draw();</script>
