@@ -5,5 +5,7 @@ main:
     url: /categories/
   - title: "Etiquetas"
     url: /tags/
+  - title: "SRDs"
+    url: /srd-en-la-esquina-del-rol/
   - title: "Sobre mí"
     url: /about/
