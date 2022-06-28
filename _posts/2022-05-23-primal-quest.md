@@ -1,5 +1,5 @@
 ---
-title: Primal Quest en español
+title: Primal quest en español
 excerpt: En esta entrada comparto mi traducción del juego de rol Primal Quest SRD de Diogo Nogueira.
 last_modified_at: 2022-05-23T15:34:30-04:00
 categories:
