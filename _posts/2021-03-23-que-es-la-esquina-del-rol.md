@@ -3,7 +3,7 @@ title: ¡Esto es La esquina del rol!
 excerpt: En esta entrada se presenta brevemente el origen del blog y sus principales inspiraciones.
 last_modified_at: 2021-03-23T15:34:30-04:00
 categories:
-  - blog
+  - Blog
 tags:
   - Noticias
 ---

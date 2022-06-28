@@ -3,7 +3,7 @@ title: Ironsworn Starforged primeras impresiones
 excerpt: En esta entrada comparto mis primeras impresiones luego de recibir mi PDF como baker de Ironsworn Starforged.
 last_modified_at: 2021-05-21T15:34:30-04:00
 categories:
-  - blog
+  - Blog
 tags:
   - Opinión
   - Rol en solitario
