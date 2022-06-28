@@ -30,7 +30,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 10 # amount of posts to show
 paginate_path: /page:num/
-timezone:
+timezone: America/Merida # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 include:
   - _pages
 
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "La esquina del rol"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "{Él/he/him} Gané el aspecto «Papá primerizo».
+  bio    : "{Él/he/him} Gané el aspecto «Papá primerizo».#TTRPGtranslator  #RPGLatam #SoloRPG"
   links:
     - label: "Invítame un café"
       icon: "fas fa-coffee"
