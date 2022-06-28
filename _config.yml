@@ -24,10 +24,10 @@ github_username: laesquinadelrol
 minimal_mistakes_skin: neon
 search: true
 
-comments:
-  provider
+comments: true
+  provider  : disqus
   disqus:
-    laesquinadelrol
+    shortname : laesquinadelrol
 
 
 # Build settings
