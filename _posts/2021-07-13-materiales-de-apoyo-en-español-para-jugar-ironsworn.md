@@ -24,7 +24,7 @@ Mi objetivo es traducir todo lo traducible, dejarlo gratuito y libre para quien 
 
 Lo publicado hasta el momento:
 
-[La hoja de personaje](#https://laesquinadelrol.files.wordpress.com/2021/07/ironsworn-hoja_de_personaje-es.pdf){: .btn .btn--success}
+<a href="#https://laesquinadelrol.files.wordpress.com/2021/07/ironsworn-hoja_de_personaje-es.pdf" class="btn btn--primary">Hoja de personaje</a>
 
 - [La hoja de personajes.](https://laesquinadelrol.files.wordpress.com/2021/07/ironsworn-hoja_de_personaje-es.pdf)
 - [Tu mundo: el cuaderno de verdades.](https://laesquinadelrol.files.wordpress.com/2021/07/ironsworn-es-cuadernodeverdades.pdf)
