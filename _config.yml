@@ -61,10 +61,10 @@ author:
   bio    : "{Él/he/him} Gané el aspecto «Papá primerizo». Traductor, maquetador y editor aficionado. En mis tiempos libres desarrollo La esquina del rol.
   links:
     - label: "Invítame un café"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-coffee"
       url: "https://ko-fi.com/laesquinadelrol"
     - label: "Linktr.ee"
-      icon: "fas fa-external-link-alt"
+      icon: "fab fa-pageline"
       url: "https://linktr.ee/laesquinadelrol"
     - label: "Telegram"
       icon: "fab fa-telegram"
