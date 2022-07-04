@@ -1,6 +1,6 @@
 ---
 title: Cairn en español
-excerpt: En esta entrada comparto mi traducción de un texto de Temmon sobre las reglas para jugar en solitario.
+excerpt: En esta entrada se habla del lanzamiento de la publicación digital de la edición en español de Cairn
 last_modified_at: 2022-07-04T15:34:30-04:00
 categories:
   - Publicaciones
@@ -8,8 +8,9 @@ tags:
   - Juegos de rol
   - Zines
   - Traducciones
-
+og_image: /assets/images/cairnes.jpg
 ---
+![](/assets/images/cairnes.jpg)
 
 # Cairn en Español
 
