@@ -34,8 +34,8 @@ comments:
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-permalink: /:categories/:title/
-paginate: 10 # amount of posts to show
+permalink: /:year/:month/day
+paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: America/Merida # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 include:
@@ -66,6 +66,7 @@ author:
   name   : "La esquina del rol"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "{Él/he/him} Gané el aspecto «Papá primerizo».#TTRPGtranslator  #RPGLatam #SoloRPG"
+  location: México
   links:
     - label: "Invítame un café"
       icon: "fas fa-coffee"

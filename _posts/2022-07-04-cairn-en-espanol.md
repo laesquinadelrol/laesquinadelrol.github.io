@@ -5,7 +5,9 @@ last_modified_at: 2022-07-04T15:34:30-04:00
 categories:
   - Publicaciones
 tags:
-  - Rol en solitario
-  - Opinión
+  - Juegos de rol
+  - Zines
   - Traducciones
 ---
+
+#
