@@ -34,7 +34,7 @@ comments:
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-permalink: /:year/:month/:day/:posts
+permalink: /:year/:month/:day/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: America/Merida # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
