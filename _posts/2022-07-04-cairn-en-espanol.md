@@ -8,7 +8,9 @@ tags:
   - Juegos de rol
   - Zines
   - Traducciones
+
 og_image: /assets/images/cairnes.jpg
+
 ---
 ![](/assets/images/cairnes.jpg)
 
