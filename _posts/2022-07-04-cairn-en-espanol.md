@@ -8,13 +8,7 @@ tags:
   - Juegos de rol
   - Zines
   - Traducciones
-
-og_image: /assets/images/cairnes.jpg
-
 ---
-![](/assets/images/cairnes.jpg)
-
-# Cairn en Español
 
 ¡Tenemos Cairn en español! Finalmente, esto es una realidad. Descarga ahora mismo el juego de rol de Yochai Gal y disfrútalo en tu idioma.
 
@@ -23,3 +17,9 @@ Recuerda utilizar #EsCairn cuando compartas cualquier cosa acerca de la edición
 ¡Disfrútalo! Para descargar, da clic en el siguiente enlance:
 
 <iframe frameborder="0" src="https://itch.io/embed/1596629" width="552" height="167"><a href="https://laesquinadelrol.itch.io/cairn-es">Cairn [Edición en español] by La esquina del rol 🎲</a></iframe>
+
+```yaml
+header:
+  image: /assets/images/cairnes.jpg
+  og_image: /assets/images/cairnes.jpg
+```
