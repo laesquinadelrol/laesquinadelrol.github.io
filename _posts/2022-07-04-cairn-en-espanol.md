@@ -1,5 +1,8 @@
 ---
 title: Cairn en español
+header:
+  image: /assets/images/cairnes.jpg
+  og_image: /assets/images/cairnes.jpg
 excerpt: En esta entrada se habla del lanzamiento de la publicación digital de la edición en español de Cairn
 last_modified_at: 2022-07-04T15:34:30-04:00
 categories:
@@ -17,9 +20,3 @@ Recuerda utilizar #EsCairn cuando compartas cualquier cosa acerca de la edición
 ¡Disfrútalo! Para descargar, da clic en el siguiente enlance:
 
 <iframe frameborder="0" src="https://itch.io/embed/1596629" width="552" height="167"><a href="https://laesquinadelrol.itch.io/cairn-es">Cairn [Edición en español] by La esquina del rol 🎲</a></iframe>
-
-```yaml
-header:
-  image: /assets/images/cairnes.jpg
-  og_image: /assets/images/cairnes.jpg
-```
