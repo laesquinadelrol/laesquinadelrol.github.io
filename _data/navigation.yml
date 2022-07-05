@@ -7,5 +7,7 @@ main:
     url: /tags/
   - title: "SRDs"
     url: https://srd.laesquinadelrol.com/
-  - title: "Sobre mí"
-    url: /about/
+  - title: "Etiquetas"
+    url: /cairn-es/
+  - title: "Tienda"
+    url: /tienda/
