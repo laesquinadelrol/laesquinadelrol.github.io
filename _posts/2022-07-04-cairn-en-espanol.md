@@ -2,6 +2,7 @@
 title: Cairn en español
 header:
   image: /assets/images/cairnes.jpg
+  teaser: /assets/images/cairnes.jpg
   og_image: /assets/images/cairnes.jpg
 twitter:
   username: "laesquinadelrol"
