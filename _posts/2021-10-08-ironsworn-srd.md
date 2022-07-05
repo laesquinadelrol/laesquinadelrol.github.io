@@ -2,6 +2,7 @@
 title: Ironsworn SRD
 header:
   image: https://laesquinadelrol.files.wordpress.com/2021/10/ironsworn-en-espanol-1.png
+  teaser: https://laesquinadelrol.files.wordpress.com/2021/10/ironsworn-en-espanol-1.png
   og_image: https://laesquinadelrol.files.wordpress.com/2021/10/ironsworn-en-espanol-1.png
 twitter:
   username: "laesquinadelrol"

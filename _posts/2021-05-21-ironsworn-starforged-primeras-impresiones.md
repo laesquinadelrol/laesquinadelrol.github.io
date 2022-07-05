@@ -3,6 +3,7 @@ title: Ironsworn Starforged primeras impresiones
 title: ¡El libro de Hanz en EPUB y PDF!
 header:
   image: https://laesquinadelrol.files.wordpress.com/2021/05/1500x500.jpg
+  teaser: https://laesquinadelrol.files.wordpress.com/2021/05/1500x500.jpg
   og_image: https://laesquinadelrol.files.wordpress.com/2021/05/1500x500.jpg
 twitter:
   username: "laesquinadelrol"

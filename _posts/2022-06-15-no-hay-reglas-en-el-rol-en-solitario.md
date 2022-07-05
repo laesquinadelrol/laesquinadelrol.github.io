@@ -2,6 +2,7 @@
 title: No hay reglas en el rol en solitario
 header:
   image: https://laesquinadelrol.files.wordpress.com/2022/06/5.png
+  teaser: https://laesquinadelrol.files.wordpress.com/2022/06/5.png
   og_image: https://laesquinadelrol.files.wordpress.com/2022/06/5.png
 twitter:
   username: "laesquinadelrol"

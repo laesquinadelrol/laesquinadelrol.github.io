@@ -2,6 +2,7 @@
 title: ¡El libro de Hanz en EPUB y PDF!
 header:
   image: https://laesquinadelrol.files.wordpress.com/2021/07/black-and-white-flat-minimalist-bag-business-animated-social-media-graphic.png
+  teaser: https://laesquinadelrol.files.wordpress.com/2021/07/black-and-white-flat-minimalist-bag-business-animated-social-media-graphic.png
   og_image: https://laesquinadelrol.files.wordpress.com/2021/07/black-and-white-flat-minimalist-bag-business-animated-social-media-graphic.png
 twitter:
   username: "laesquinadelrol"

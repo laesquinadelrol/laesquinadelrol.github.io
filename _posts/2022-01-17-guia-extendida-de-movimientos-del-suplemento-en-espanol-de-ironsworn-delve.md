@@ -2,6 +2,7 @@
 title: Movimientos Ironsworn Delve
 header:
   image: https://laesquinadelrol.files.wordpress.com/2022/01/ironsworn-en-espanol-1.jpg
+  teaser: https://laesquinadelrol.files.wordpress.com/2022/01/ironsworn-en-espanol-1.jpg
   og_image: https://laesquinadelrol.files.wordpress.com/2022/01/ironsworn-en-espanol-1.jpg
 excerpt: En esta entrada comparto dos documentos traducidos de Ironsworn Delve, el primero de ellos son los movimientos explicados y la hoja de sitio.
 last_modified_at: 2021-10-22T15:34:30-04:00

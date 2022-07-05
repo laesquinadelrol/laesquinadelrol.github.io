@@ -2,6 +2,7 @@
 title: Guía de movimientos extendida de Ironsworn
 header:
   image: /assets/images/ironsworn.jpg
+  teaser: /assets/images/ironsworn.jpg
   og_image: /assets/images/ironsworn.jpg
 twitter:
   username: "laesquinadelrol"

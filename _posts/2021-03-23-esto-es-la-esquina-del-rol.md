@@ -2,6 +2,7 @@
 title: ¡Esto es La esquina del rol!
 header:
   image: /assets/images/laesquinadelrol.png
+  teaser: /assets/images/laesquinadelrol.png
   og_image: /assets/images/laesquinadelrol.png
 twitter:
   username: "laesquinadelrol"

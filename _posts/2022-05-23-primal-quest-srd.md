@@ -2,6 +2,7 @@
 title: Primal quest en español
 header:
   image: https://laesquinadelrol.files.wordpress.com/2022/05/ironsworn-en-espanol-3.png
+  teaser: https://laesquinadelrol.files.wordpress.com/2022/05/ironsworn-en-espanol-3.png
   og_image: https://laesquinadelrol.files.wordpress.com/2022/05/ironsworn-en-espanol-3.png
 twitter:
   username: "laesquinadelrol"
