@@ -1,5 +1,10 @@
 ---
 title: No hay reglas en el rol en solitario
+header:
+  image: https://laesquinadelrol.files.wordpress.com/2022/06/5.png
+  og_image: /assets/images/cairnes.jpg
+twitter:
+  username: "laesquinadelrol"
 excerpt: En esta entrada comparto mi traducción de un texto de Temmon sobre las reglas para jugar en solitario.
 last_modified_at: 2022-06-15T15:34:30-04:00
 categories:
