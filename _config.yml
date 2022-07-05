@@ -123,3 +123,9 @@ tag_archive:
 twitter:
   username: "laesquinadelrol"
   og_image: /assets/images/bio-photo.jpg
+
+analytics:
+provider: "google-gtag"
+google:
+  tracking_id: "xxxxx"
+  anonymize_ip: false # default
