@@ -29,6 +29,10 @@ comments:
   disqus:
     shortname : laesquinadelrol
 
+# Social Sharing
+twitter:
+  username               : &twitter "laesquinadelrol"
+og_image                 : "/assets/images/bio-photo.jpg" # Open Graph/Twitter default site image
 
 # Build settings
 markdown: kramdown
@@ -90,6 +94,12 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/laesquinadelrol"
 
+# Collections
+collections:
+  proyectos:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
   # _posts
   - scope:
@@ -110,6 +120,20 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+  # _proyectos
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "proyectos"
+
 
 category_archive:
   type: liquid
