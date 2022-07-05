@@ -2,8 +2,8 @@
 title: Cairn en español
 header:
   image: /assets/images/cairnes.jpg
-  teaser: /assets/images/cairnes.jpg
-  og_image: /assets/images/cairnes.jpg
+  teaser: /assets/images/portada-cairn.jpg
+  og_image: /assets/images/portada-cairn.jpg
 twitter:
   username: "laesquinadelrol"
 excerpt: En esta entrada se habla del lanzamiento de la publicación digital de la edición en español de Cairn
