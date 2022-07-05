@@ -1,6 +1,9 @@
 ---
 toc: true
 title: Hackeando Ironsworn
+header:
+  image: https://laesquinadelrol.files.wordpress.com/2021/10/ironsworn-en-espanol-2.png
+  og_image: https://laesquinadelrol.files.wordpress.com/2021/10/ironsworn-en-espanol-2.png
 excerpt: En esta entrada comparto un apartado del libro de reglas de Ironsworn para hackearlo y poder utilizarlo en tu propio mundo.
 last_modified_at: 2021-10-22T15:34:30-04:00
 categories:
@@ -11,8 +14,6 @@ tags:
   - Traducciones
   - Ironsworn
 ---
-
-![Promocional de Ironsworn](https://laesquinadelrol.files.wordpress.com/2021/10/ironsworn-en-espanol-2.png)
 
 Luego de la publicación del [SRD de Ironsworn](https://laesquinadelrol.com/rol%20en%20solitario/ironsworn-srd/), pienso que esto es muy útil  para hackear este juego y dejarlo listo para jugar en nuestras ambientaciones preferidas. Recuerden que pueden encontrar más ayudas del JdR Ironsworn en el blog.
 

@@ -1,5 +1,10 @@
 ---
 title: Primal quest en español
+header:
+  image: https://laesquinadelrol.files.wordpress.com/2022/05/ironsworn-en-espanol-3.png
+  og_image: https://laesquinadelrol.files.wordpress.com/2022/05/ironsworn-en-espanol-3.png
+twitter:
+  username: "laesquinadelrol"
 excerpt: En esta entrada comparto mi traducción del juego de rol Primal Quest SRD de Diogo Nogueira.
 last_modified_at: 2022-05-23T15:34:30-04:00
 categories:
@@ -10,8 +15,6 @@ tags:
   - Traducciones
   - Primal quest
 ---
-
-![](https://laesquinadelrol.files.wordpress.com/2022/05/ironsworn-en-espanol-3.png)
 
 No podía dejar pasar este 23 de mayo para cerrar este mes de celebraciones, sin compartir la traducción de Primal Quest SRD escrito y desarrollado por Diogo Nogueira (a quien agradezco por autorizarnos el poder traducir este SRD). Esta traducción en La esquina del rol es la primera que cuenta con la colaboración voluntaria de calpurnio pison como traductor.
 

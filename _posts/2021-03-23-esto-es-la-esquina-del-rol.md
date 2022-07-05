@@ -1,5 +1,10 @@
 ---
 title: ¡Esto es La esquina del rol!
+header:
+  image: /assets/images/laesquinadelrol.png
+  og_image: /assets/images/laesquinadelrol.png
+twitter:
+  username: "laesquinadelrol"
 excerpt: En esta entrada se presenta brevemente el origen del blog y sus principales inspiraciones.
 last_modified_at: 2021-03-23T15:34:30-04:00
 categories:
@@ -7,8 +12,6 @@ categories:
 tags:
   - Noticias
 ---
-
-![Imagen promocional de Ironsworn](/assets/images/laesquinadelrol.png)
 
 ## ¿Qué es la esquina del rol 🎲?
 Justo eso: una esquina. Es decir, una arista exterior en donde convergen dos lados de una misma cosa, en otras palabras es aquello que resulta de lo que puedo y quiero hacer con este blog dedicado a mi pasatiempo favorito: los juegos de rol. Así que lo que ves aquí es reflejo de esa esquina teórica.

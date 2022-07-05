@@ -1,5 +1,10 @@
 ---
 title: ¡El libro de Hanz en EPUB y PDF!
+header:
+  image: https://laesquinadelrol.files.wordpress.com/2021/07/black-and-white-flat-minimalist-bag-business-animated-social-media-graphic.png
+  og_image: https://laesquinadelrol.files.wordpress.com/2021/07/black-and-white-flat-minimalist-bag-business-animated-social-media-graphic.png
+twitter:
+  username: "laesquinadelrol"
 excerpt: En esta entrada comparto maquetado y traducido al español el famoso Libro de Hanz la guía para jugar Fate RPG.
 last_modified_at: 2021-07-29T15:34:30-04:00
 categories:
@@ -10,7 +15,6 @@ tags:
   - Traducciones
   - Fate
 ---
-![Portada del libro de Hanz en español](https://laesquinadelrol.files.wordpress.com/2021/07/black-and-white-flat-minimalist-bag-business-animated-social-media-graphic.png)
 
 No hay plazo que no se cumpla. Finalmente, llego el momento de compartir con la comunidad de Fate en español el Libro de Hanz en ePUB y PDF.
 

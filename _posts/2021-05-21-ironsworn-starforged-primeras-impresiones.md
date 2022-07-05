@@ -1,5 +1,11 @@
 ---
 title: Ironsworn Starforged primeras impresiones
+title: ¡El libro de Hanz en EPUB y PDF!
+header:
+  image: https://laesquinadelrol.files.wordpress.com/2021/05/1500x500.jpg
+  og_image: https://laesquinadelrol.files.wordpress.com/2021/05/1500x500.jpg
+twitter:
+  username: "laesquinadelrol"
 excerpt: En esta entrada comparto mis primeras impresiones luego de recibir mi PDF como baker de Ironsworn Starforged.
 last_modified_at: 2021-05-21T15:34:30-04:00
 categories:
@@ -9,8 +15,6 @@ tags:
   - Rol en solitario
   - Ironsworn
 ---
-
-![Imagen promocional de Ironsworn Starforged](https://laesquinadelrol.files.wordpress.com/2021/05/1500x500.jpg)
 
 Hace una semana terminé de leer la versión previa de **Ironsworn Starforged** (**Starforged** en adelante) y decidí hasta ahora compartir contigo en el blog una serie de primeras impresiones que se me quedaron como huellas en el pensamiento al concluir su lectura.
 

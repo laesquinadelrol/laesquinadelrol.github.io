@@ -1,5 +1,8 @@
 ---
 title: Year zero engine en español
+header:
+  image: https://laesquinadelrol.files.wordpress.com/2022/04/year.png
+  og_image: https://laesquinadelrol.files.wordpress.com/2022/04/year.png
 excerpt: En esta entrada comparto mi traducción del Year Zero engine que utilizan varios juegos de Free league.
 last_modified_at: 2022-04-23T15:34:30-04:00
 categories:
@@ -9,8 +12,6 @@ tags:
   - Juegos de rol
   - Traducciones
 ---
-
-![Imagen promocional de Year zero engine](https://laesquinadelrol.files.wordpress.com/2022/04/year.png)
 
 Hoy se cumple un año de laesquinadelrol.com. Ha sido un año lleno de traducciones y de muchas personas relacionadas al rol que he conocido. Estoy muy agradecido por todo lo que me ha dado la esquinadelrol.com y espero que se venga un año lleno de más traducciones gratuitas.
 

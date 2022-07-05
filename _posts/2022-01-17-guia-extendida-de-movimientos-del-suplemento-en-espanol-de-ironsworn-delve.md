@@ -1,5 +1,8 @@
 ---
 title: Movimientos Ironsworn Delve
+header:
+  image: https://laesquinadelrol.files.wordpress.com/2022/01/ironsworn-en-espanol-1.jpg
+  og_image: https://laesquinadelrol.files.wordpress.com/2022/01/ironsworn-en-espanol-1.jpg
 excerpt: En esta entrada comparto dos documentos traducidos de Ironsworn Delve, el primero de ellos son los movimientos explicados y la hoja de sitio.
 last_modified_at: 2021-10-22T15:34:30-04:00
 categories:
@@ -10,8 +13,6 @@ tags:
   - Traducciones
   - Ironsworn
 ---
-
-![Imagen promocional de Ironsworn Delve](https://laesquinadelrol.files.wordpress.com/2022/01/ironsworn-en-espanol-1.jpg)
 
 ¡Aquí estoy de regreso desde la esquina del rol que ya conoces! El día de hoy les comparto un primer avance de lo que me traigo en desarrollo para la comunidad del sitio. En esta ocasión les comparto dos documentos:
 
