@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 locale: "es-ES"
 title: La esquina del rol
-subtitle: Tu esquina de rol en internet
+subtitle: Tu esquina del rol en internet
 email: laesquinadelrol@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Tu esquina de rol internet. Un espacio para encontrar traducciones en español de juegos de rol y en solitario como Ironsworn, Ironsworn Starfoged y otros.
@@ -69,15 +69,12 @@ plugins:
 author:
   name   : "La esquina del rol"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "{Él/he/him} Gané el aspecto «Papá primerizo». Edito y traduzco juegos de rol indie #NSR #OSR #RPGLatam #SoloRPG  #jugandosolorpg contacto@laesquinadelrol.com"
+  bio    : "{Él/he/him} Gané el aspecto «Papá primerizo». Edito y traduzco juegos de rol indie. contacto@laesquinadelrol.com"
   location: Mérida, México
   links:
     - label: "Invítame un café"
       icon: "fas fa-coffee"
       url: "https://ko-fi.com/laesquinadelrol"
-    - label: "Correo electrónico"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:contacto@laesquinadelrol.com"
     - label: "Telegram"
       icon: "fab fa-telegram"
       url: "https://t.me/laesquinadelrol"
