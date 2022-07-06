@@ -69,8 +69,8 @@ plugins:
 author:
   name   : "La esquina del rol"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "{Él/he/him} Gané el aspecto «Papá primerizo».#TTRPGtranslator  #RPGLatam #SoloRPG"
-  location: México
+  bio    : "{Él/he/him} Gané el aspecto «Papá primerizo». Edito y traduzco juegos de rol indie #NSR #OSR #RPGLatam #SoloRPG  #jugandosolorpg contacto@laesquinadelrol.com"
+  location: Mérida, México
   links:
     - label: "Invítame un café"
       icon: "fas fa-coffee"
