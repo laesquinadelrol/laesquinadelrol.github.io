@@ -6,7 +6,7 @@ header:
   og_image: /assets/images/nsrcover.png
 twitter:
   username: "laesquinadelrol"
-excerpt: En esta entrada comparto la traducción del texto original titulado "The new school revolution" escrito originalmente por @Pandatheist en su blog: boneboxtchant.wordpress.com
+excerpt: En esta entrada comparto la traducción del texto original titulado "The new school revolution" escrito originalmente por @Pandatheist
 last_modified_at: 2022-07-30T15:34:30-04:00
 categories:
   - Blog
