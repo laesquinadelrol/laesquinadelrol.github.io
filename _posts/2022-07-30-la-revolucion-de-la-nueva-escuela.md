@@ -1,5 +1,6 @@
 ---
 title: La revolución de la nueva escuela
+permalink: https://laesquinadelrol.com/2022/07/30/la-revolucion-de-la-nueva-escuela/
 header:
   image: /assets/images/nsrcover.png
   teaser: /assets/images/nsrcover.png
