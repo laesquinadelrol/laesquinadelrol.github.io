@@ -42,4 +42,6 @@ Entonces, ¿cuál es el punto de todo esto? Juegos de rol como *Mothership*, *Wo
 
 No tengo interés en presentar otro término para generar conflicto. Pero veo una brecha descriptiva para este estilo de juego. El **OSR** está fuertemente vinculado a la *vieja escuela* de *D&D*. El *Artpunk* realmente no está en boga. El *Sword Dream* es principalmente un fenómeno de *Itch.io*. Parece que necesitamos algo más. Utiliza el término **NSR** si lo encuentras útil. Ciertamente, yo lo utilizo.
 
-Adenda: A lo largo de los años he recibido varias dudas sobre algunos de los elementos anteriores y, finalmente, he puesto todas mis respuestas en un solo [sitio]().
+**Adenda**: A lo largo de los años he recibido varias dudas sobre algunos de los elementos anteriores y, finalmente, he puesto todas mis respuestas en un solo [sitio](https://laesquinadelrol.com/2022/07/30/revisando-el-termino-NSR/).
+
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Invítame un café', '#29abe0', 'X8X035NUM');kofiwidget2.draw();</script>
