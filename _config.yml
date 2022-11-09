@@ -90,9 +90,6 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/laesquinadelrol"
-    - label: "Mastodon"
-      icon: "fas fa-mastodon"
-      url: "https://mastodon.social/@laesquinadelrol"
 
 # Collections
 collections:
