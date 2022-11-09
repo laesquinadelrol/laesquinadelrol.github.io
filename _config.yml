@@ -72,9 +72,6 @@ author:
   bio    : "{Él/he/him} Gané el aspecto «Papá primerizo». Edito y traduzco juegos de rol indie. contacto@laesquinadelrol.com  <a rel="Ahora en" href="https://mastodon.social/@laesquinadelrol">Mastodon</a>"
   location: México
   links:
-    - label: "Invítame un café"
-      icon: "fas fa-coffee"
-      url: "https://ko-fi.com/laesquinadelrol"
     - label: "Telegram"
       icon: "fab fa-telegram"
       url: "https://t.me/laesquinadelrol"
@@ -84,15 +81,18 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/laesquinadelrol"
+    - label: "Mastodon"
+      icon: "fas fa-mastodon"
+      url: "https://mastodon.social/@laesquinadelrol"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/laesquinadelrol"
-      
-      Ahora en [Mastodon](https://mastodon.social/@laesquinadelrol)
-      
+    - label: "Mastodon"
+      icon: "fas fa-mastodon"
+      url: "https://mastodon.social/@laesquinadelrol"
 
 # Collections
 collections:
