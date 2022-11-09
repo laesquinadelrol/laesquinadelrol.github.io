@@ -69,7 +69,7 @@ plugins:
 author:
   name   : "La esquina del rol"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "{Él/he/him} Gané el aspecto «Papá primerizo». Edito y traduzco juegos de rol indie. contacto@laesquinadelrol.com  <a rel="Ahora en" href="https://mastodon.social/@laesquinadelrol">Mastodon</a>"
+  bio    : "{Él/he/him} Gané el aspecto «Papá primerizo». Edito y traduzco juegos de rol indie. contacto@laesquinadelrol.com"
   location: México
   links:
     - label: "Telegram"
