@@ -82,7 +82,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/laesquinadelrol"
     - label: "Mastodon"
-      icon: "fas fa-mastodon"
+      icon: "fab fa-mastodon"
       url: "https://mastodon.social/@laesquinadelrol"
 
 footer:
@@ -90,6 +90,10 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/laesquinadelrol"
+      
+<div markdown="1">
+Ir a [Mastodon](https://mastodon.social/@laesquinadelrol)
+</div>
 
 # Collections
 collections:
