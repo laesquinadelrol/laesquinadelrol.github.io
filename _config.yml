@@ -69,7 +69,7 @@ plugins:
 author:
   name   : "La esquina del rol"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "{Él/he/him} Gané el aspecto «Papá primerizo». Edito y traduzco juegos de rol indie. contacto@laesquinadelrol.com"
+  bio    : "{Él/he/him} Gané el aspecto «Papá primerizo». Edito y traduzco juegos de rol indie. contacto@laesquinadelrol.com  <a rel="Ahora en" href="https://mastodon.social/@laesquinadelrol">Mastodon</a>"
   location: México
   links:
     - label: "Invítame un café"
@@ -91,7 +91,7 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/laesquinadelrol"
       
-      <a rel="Ahora en" href="https://mastodon.social/@laesquinadelrol">Mastodon</a>
+     
 
 # Collections
 collections:
