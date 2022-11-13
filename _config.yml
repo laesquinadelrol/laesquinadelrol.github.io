@@ -83,7 +83,7 @@ author:
       url: "https://twitter.com/laesquinadelrol"
     - label: "Mastodon"
       icon: "fab fa-mastodon"
-      url: "https://mastodon.social/@laesquinadelrol"
+      url: "https://dice.camp/@laesquinadelrol"
 
 footer:
   links:
@@ -92,7 +92,7 @@ footer:
       url: "https://twitter.com/laesquinadelrol"
     - label: "Mastodon"
       icon: "fab fa-mastodon"
-      url: "https://mastodon.social/@laesquinadelrol"
+      url: "https://dice.camp/@laesquinadelrol"
 
 # Collections
 collections:
