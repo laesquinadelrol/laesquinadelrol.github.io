@@ -26,6 +26,8 @@ Gesta Orbital es un nano juego de rol de supervivencia espacial en solitario cre
 
 - Gravity de Alfonso Cuarón
 
+<img src="/assets/images/gestaorbital3.png" style="zoom:60%;" />
+
 ## **El juego incluye:**
 
 - Reglas ligeras
