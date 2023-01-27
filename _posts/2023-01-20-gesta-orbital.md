@@ -1,9 +1,9 @@
 ---
 title: Gesta Orbital
 header:
-  image: /assets/images/gestaorbital3.png
-  teaser: /assets/images/gestaorbital3.png
-  og_image: /assets/images/gestaorbital3.png
+  image: /assets/images/gestaorbital32.png
+  teaser: /assets/images/gestaorbital32.png
+  og_image: /assets/images/gestaorbital32.png
 twitter:
   username: "laesquinadelrol"
 excerpt: Un nano juego de rol de supervivencia espacial en solitario
