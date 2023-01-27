@@ -6,7 +6,7 @@ header:
   og_image: /assets/images/gestaorbital3.png
 twitter:
   username: "laesquinadelrol"
-  excerpt: Un nano juego de rol de supervivencia espacial en solitario
+excerpt: Un nano juego de rol de supervivencia espacial en solitario
 last_modified_at: 2023-01-20T15:34:30-04:00
 categories:
   - Blog
