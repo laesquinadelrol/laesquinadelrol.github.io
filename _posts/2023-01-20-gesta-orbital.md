@@ -6,7 +6,7 @@ header:
   og_image: /assets/images/gestaorbital32.png
 twitter:
   username: "laesquinadelrol"
-excerpt: Un nano juego de rol de supervivencia espacial en solitario
+excerpt: En esta entrada se presenta mi envío a la #12wordRPGJam
 last_modified_at: 2023-01-20T15:34:30-04:00
 categories:
   - Blog
@@ -52,4 +52,4 @@ Arte con copyright © 2023 por Evelyn Moreau, queda prohibida su reproducción
 
 Todo el texto está licenciado bajo CC-BY 4.0
 
-**Descárgalo en: https://laesquinadelrol.itch.io/gesta-orbital**
+**Descárgalo en**: [https://laesquinadelrol.itch.io/gesta-orbital](https://laesquinadelrol.itch.io/gesta-orbital)
