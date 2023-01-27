@@ -1,4 +1,3 @@
-```
 ---
 title: Gesta Orbital
 header:
@@ -16,8 +15,6 @@ tags:
   - Juegos
   - Jams
 ---
-
-```
 
 ## **Premisa**
 
