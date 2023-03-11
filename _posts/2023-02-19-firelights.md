@@ -1,8 +1,8 @@
 ---
 title: Firelights
 header:
-  image: /assets/firelights.png
-  teaser: /assets/firelights2.png
+  image: /assets/firelights2.png
+  teaser: /assets/.png
   og_image: /assets/.png
 twitter:
   username: "laesquinadelrol"
