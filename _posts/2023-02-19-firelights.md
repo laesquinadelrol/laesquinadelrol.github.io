@@ -1,7 +1,7 @@
 ---
 title: Firelights
 header:
-  image: /assets/firelights2.png
+  image: /assets/.png
   teaser: /assets/.png
   og_image: /assets/.png
 twitter:
