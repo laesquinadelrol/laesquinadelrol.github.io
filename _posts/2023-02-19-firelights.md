@@ -3,7 +3,7 @@ title: Firelights
 header:
   image: /assets/firelights.png
   teaser: /assets/firelights.png
-  og_image: /assets/firelights.png
+  og_image: /assets/firelights2.png
 twitter:
   username: "laesquinadelrol"
 excerpt: Lanzamiento de Fireligths RPG y el Kit del creador al castellano.
