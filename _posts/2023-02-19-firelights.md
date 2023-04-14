@@ -1,7 +1,7 @@
 ---
 title: Firelights
 header:
-  image: /assets/images/firelights-largo.png
+  image: /assets/images/firelights-largo1.png
   teaser: /assets/images/fireligths1.png
   og_image: /assets/images/fireligths1.png
 twitter:
