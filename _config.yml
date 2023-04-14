@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Tu esquina de rol internet. Un espacio para encontrar traducciones en español de juegos de rol y en solitario como Ironsworn, Ironsworn Starfoged y otros.
 twitter_username: laesquinadelrol
 github_username: laesquinadelrol
-minimal_mistakes_skin: contrast
+minimal_mistakes_skin: dark
 search: true
 
 comments:
@@ -69,7 +69,7 @@ plugins:
 author:
   name   : "La esquina del rol"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "{Él/he/him} Gané el aspecto «Papá primerizo». Edito y traduzco juegos de rol indie. contacto@laesquinadelrol.com"
+  bio    : "{Él/he/him} Edito y traduzco juegos de rol indie. contacto@laesquinadelrol.com"
   location: México
   links:
     - label: "Telegram"
