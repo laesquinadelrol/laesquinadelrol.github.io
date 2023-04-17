@@ -9,7 +9,7 @@ twitter:
 excerpt: En esta entrada comparto mi traducción del SRD de Ironsworn. Con este documento en PDF y en google docs puedes jugar Ironsworn básico o desarrollar tu propio juego.
 last_modified_at: 2021-08-18T15:34:30-04:00
 categories:
-  - Sistemas
+  - Blog
 tags:
   - Recursos
   - Rol en solitario
