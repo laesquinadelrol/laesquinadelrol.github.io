@@ -16,8 +16,6 @@ tags:
   - Jams
 ---
 
-## FIRELIGTHS RPG
-
 Firelights es un juego de rol minimalista en solitario/cooperativo acerca de una travesía guiada a través de un mundo desolado. Es un juego de exploración, descubrimiento y desafíos. Inspirado en el género de videojuegos Metroidvania.
 
 El jugador asume el rol de un protagonista solitario, cuya función es guiar a los muertos vivientes de vuelta al inframundo después de que el mal se apoderara de ellos.
