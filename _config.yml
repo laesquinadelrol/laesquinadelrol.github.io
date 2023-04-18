@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Tu esquina de rol internet. Un espacio para encontrar traducciones en español de juegos de rol y en solitario como Ironsworn, Ironsworn Starfoged y otros.
 twitter_username: laesquinadelrol
 github_username: laesquinadelrol
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: neon
 search: true
 
 comments:
