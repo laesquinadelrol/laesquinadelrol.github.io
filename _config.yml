@@ -69,7 +69,7 @@ plugins:
 author:
   name   : "La esquina del rol"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "• (He/him) • TTRPG • Solo-RPG enthusiast • 📧 contacto@laesquinadelrol.com •"
+  bio    : "(He/him). TTRPG. Solo-RPG enthusiast. 📧 contacto@laesquinadelrol.com"
   location: México
   links:
     - label: "Telegram"
