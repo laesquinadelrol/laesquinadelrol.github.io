@@ -1,4 +1,0 @@
----
-permalink: /tienda/
-title: "Tienda"
----
