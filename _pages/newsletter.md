@@ -1,5 +1,5 @@
 ---
-permalink: /newslatter/
+permalink: /newsletter/
 title: "Boletín Informativo"
 ---
 
