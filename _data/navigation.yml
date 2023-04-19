@@ -7,5 +7,7 @@ main:
     url: /categories/
   - title: "Etiquetas"
     url: /tags/
+  - title: "Newsletter"
+    url: /newslatter/
   - title: "SRDs"
     url: https://srd.laesquinadelrol.com/
