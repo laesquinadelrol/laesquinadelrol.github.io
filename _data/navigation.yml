@@ -5,7 +5,5 @@ main:
     url: /posts/
   - title: "Etiquetas"
     url: /tags/
-  - title: "Newsletter"
-    url: /newsletter/
   - title: "SRDs"
     url: https://srd.laesquinadelrol.com/
