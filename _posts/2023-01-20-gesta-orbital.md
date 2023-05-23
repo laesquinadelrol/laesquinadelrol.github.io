@@ -11,9 +11,9 @@ last_modified_at: 2023-01-20T15:34:30-04:00
 categories:
   - Blog
 tags:
-  - SOLO RPG
-  - Juegos
-  - Jams
+  - SoloRPG
+  - Publicaciones
+  - La esquina del rol 
 ---
 
 ## **Premisa**
