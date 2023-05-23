@@ -12,7 +12,7 @@ categories:
   - Blog
 tags:
   - SoloRPG
-  - Recursos
+  - Artículos
   - Traducciones
 ---
 
