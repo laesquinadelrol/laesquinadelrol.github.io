@@ -12,6 +12,7 @@ tags:
   - Recursos
   - Year Zero Engine
   - Traducciones
+  - SRD
 ---
 
 Hoy se cumple un año de laesquinadelrol.com. Ha sido un año lleno de traducciones y de muchas personas relacionadas al rol que he conocido. Estoy muy agradecido por todo lo que me ha dado la esquinadelrol.com y espero que se venga un año lleno de más traducciones gratuitas.
