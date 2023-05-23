@@ -14,6 +14,7 @@ tags:
   - SoloRPG
   - Recomendaciones
   - La esquina del rol
+  - SRD
 ---
 
 Firelights es un juego de rol minimalista en solitario/cooperativo acerca de una travesía guiada a través de un mundo desolado. Es un juego de exploración, descubrimiento y desafíos. Inspirado en el género de videojuegos Metroidvania.
