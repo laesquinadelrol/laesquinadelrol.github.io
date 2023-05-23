@@ -6,13 +6,13 @@ header:
   og_image: /assets/images/nsrcover2.png
 twitter:
   username: "laesquinadelrol"
-  excerpt: En esta entrada comparto el texto titulado "Revisiting the NSR" escrito por @Pandatheist
+excerpt: En esta entrada comparto el texto titulado "Revisiting the NSR" escrito por @Pandatheist
 last_modified_at: 2022-07-30T15:34:30-04:00
 categories:
   - Blog
 tags:
   - NSR
-  - Opinión
+  - Artículo
   - Traducciones
 ---
 
