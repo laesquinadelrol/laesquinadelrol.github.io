@@ -7,10 +7,10 @@ header:
 excerpt: En esta entrada comparto mi traducción del Year Zero engine que utilizan varios juegos de Free league.
 last_modified_at: 2022-04-23T15:34:30-04:00
 categories:
-  - Sistemas
+  - Blog
 tags:
   - Recursos
-  - Juegos de rol
+  - Year Zero Engine
   - Traducciones
 ---
 
