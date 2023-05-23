@@ -9,11 +9,12 @@ twitter:
 excerpt: En esta entrada se habla del lanzamiento de la publicación digital de la edición en español de Cairn
 last_modified_at: 2022-07-04T15:34:30-04:00
 categories:
-  - Publicaciones
+  - Blog
 tags:
-  - Juegos de rol
-  - Zines
+  - Cairn
+  - Publicaciones
   - Traducciones
+  - SRD
 ---
 
 ¡Tenemos Cairn en español! Finalmente, esto es una realidad. Descarga ahora mismo el juego de rol de Yochai Gal y disfrútalo en tu idioma.
