@@ -12,7 +12,7 @@ categories:
   - Blog
 tags:
   - Recursos
-  - Rol en solitario
+  - SoloRPG
   - Traducciones
   - Ironsworn
 ---
