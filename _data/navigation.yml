@@ -3,6 +3,8 @@ main:
     url: /
   - title: "Entradas"
     url: /posts/
+  - title: "Categorías"
+    url: /category/
   - title: "Etiquetas"
     url: /tags/
   - title: "SRDs"
