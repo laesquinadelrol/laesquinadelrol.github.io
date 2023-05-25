@@ -12,9 +12,9 @@ last_modified_at: 2021-05-21T15:34:30-04:00
 categories:
   - Blog
 tags:
-  - Opinión
-  - Rol en solitario
-  - Ironsworn
+  - Comentario
+  - SoloRPG
+  - Reseñas
 ---
 
 Hace una semana terminé de leer la versión previa de **Ironsworn Starforged** (**Starforged** en adelante) y decidí hasta ahora compartir contigo en el blog una serie de primeras impresiones que se me quedaron como huellas en el pensamiento al concluir su lectura.

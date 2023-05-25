@@ -12,7 +12,7 @@ categories:
   - Blog
 tags:
   - NSR
-  - Opinión
+  - Artículos 
   - Traducciones
 ---
 

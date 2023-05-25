@@ -9,10 +9,10 @@ twitter:
 excerpt: En esta entrada comparto mi traducción del juego de rol Primal Quest SRD de Diogo Nogueira.
 last_modified_at: 2022-05-23T15:34:30-04:00
 categories:
-  - Sistemas
+  - Blog
 tags:
   - Recursos
-  - Juegos de rol
+  - SRD
   - Traducciones
   - Primal quest
 ---

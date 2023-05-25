@@ -11,7 +11,9 @@ last_modified_at: 2021-03-23T15:34:30-04:00
 categories:
   - Blog
 tags:
-  - Noticias
+  - La esquina del rol 
+  - Comentario
+  - Recomendaciones
 ---
 
 ## ¿Qué es la esquina del rol 🎲?

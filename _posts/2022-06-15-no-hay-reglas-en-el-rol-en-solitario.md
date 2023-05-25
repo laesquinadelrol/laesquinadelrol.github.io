@@ -11,8 +11,8 @@ last_modified_at: 2022-06-15T15:34:30-04:00
 categories:
   - Blog
 tags:
-  - Rol en solitario
-  - Opinión
+  - SoloRPG
+  - Artículos
   - Traducciones
 ---
 

@@ -9,10 +9,10 @@ twitter:
 excerpt: En esta entrada comparto maquetado y traducido al español el famoso Libro de Hanz la guía para jugar Fate RPG.
 last_modified_at: 2021-07-29T15:34:30-04:00
 categories:
-  - Publicaciones
+  - Blog
 tags:
   - Recursos
-  - Juegos de rol
+  - Publicaciones
   - Traducciones
   - Fate
 ---
