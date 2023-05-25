@@ -4,7 +4,7 @@ main:
   - title: "Entradas"
     url: /posts/
   - title: "Categorías"
-    url: /category/
+    url: /categories/
   - title: "Etiquetas"
     url: /tags/
   - title: "SRDs"
