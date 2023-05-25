@@ -16,7 +16,7 @@
 locale: "es-ES"
 title: La esquina del rol
 subtitle: Tu esquina del rol en internet
-email: laesquinadelrol@gmail.com
+email: hello@laesquinadelrol.com
 description: >- # this means to ignore newlines until "baseurl:"
   Tu esquina de rol internet. Un espacio para encontrar traducciones en español de juegos de rol y en solitario como Ironsworn, Ironsworn Starfoged y otros.
 twitter_username: laesquinadelrol
@@ -69,7 +69,7 @@ plugins:
 author:
   name   : "La esquina del rol"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "(He/him). TTRPG. Solo-RPG enthusiast. 📧 contacto@laesquinadelrol.com"
+  bio    : "(He/him). TTRPG. Solo-RPG enthusiast. 📧 hello@laesquinadelrol.com"
   location: México
   links:
     - label: "Telegram"
